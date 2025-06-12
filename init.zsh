@@ -1,3 +1,4 @@
+# harmless comment
 #
 # Initializes Prezto.
 #
